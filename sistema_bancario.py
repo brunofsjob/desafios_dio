@@ -1,5 +1,5 @@
 
-# Funciona em versão python 3.10 ou superior
+# Funciona em versão python 3.10 ou em versão superior
 
 import os
 
